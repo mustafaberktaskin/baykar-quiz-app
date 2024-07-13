@@ -16,7 +16,7 @@ Bu proje, kullanıcıların 10 soruluk bir quiz testi yapmalarını sağlayan bi
 
 1. Projeyi klonlayın:
     ```bash
-    git clone https://github.com/kullanici/quiz-uygulamasi.git
+    git clone https://github.com/mustafaberktaskin/baykar-quiz-app.git
     cd quiz-uygulamasi
     ```
 
