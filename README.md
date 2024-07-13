@@ -158,8 +158,8 @@ function endQuiz() {
 
     // Kutlama efekti
     confetti({
-        particleCount: 100,
-        spread: 160,
+        particleCount: 300,
+        spread: 180,
         origin: { y: 0.6 }
     });
 }
